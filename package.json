@@ -3,6 +3,6 @@
     "watch-tw": "npx tailwindcss -i ./input.css -o ./dist/output.css --watch"
   },
   "devDependencies": {
-    "tailwindcss": "^3.2.1"
+    "tailwindcss": "^3.3.2"
   }
 }
